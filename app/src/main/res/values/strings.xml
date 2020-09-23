@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyCalculator</string>
+    <string name="ans">Ans.</string>
+    <string name="no_input_found">No Input Found</string>
 </resources>
